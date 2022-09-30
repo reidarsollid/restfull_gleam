@@ -1,9 +1,6 @@
 # restfull_gleam
 
-[![Package Version](https://img.shields.io/hexpm/v/restfull_gleam)](https://hex.pm/packages/restfull_gleam)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/restfull_gleam/)
-
-A Gleam project
+A Gleam project, just playing around 
 
 ## Quick start
 
@@ -13,12 +10,3 @@ gleam test  # Run the tests
 gleam shell # Run an Erlang shell
 ```
 
-## Installation
-
-If available on Hex this package can be added to your Gleam project:
-
-```sh
-gleam add restfull_gleam
-```
-
-and its documentation can be found at <https://hexdocs.pm/restfull_gleam>.
